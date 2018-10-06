@@ -1,5 +1,5 @@
 # python-things
-A collection of random python things
+A collection of random python things.
 Most of them are templates for other projects that you can use.
 
 Things:
